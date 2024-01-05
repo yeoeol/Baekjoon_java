@@ -24,5 +24,4 @@ public class B_15988 {
             System.out.println(dp[Integer.parseInt(br.readLine())]);
         }
     }
-
 }
